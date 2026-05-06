@@ -80,7 +80,7 @@ The result is a platform that makes a complex, high touch booking process feel s
 
 ## Live Site
 
-[Visit GoinLux](#) *(https://goinlux.com/)*
+*[Visit GoinLux](https://goinlux.com/)*
 
 ---
 
